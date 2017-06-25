@@ -1,0 +1,22 @@
+body {
+    font-family: 'Slabo 27px', serif;
+}
+
+h1 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.big {
+    font-size: 10em;
+}
+
+p {
+    text-align: center;
+    position: fixed;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
