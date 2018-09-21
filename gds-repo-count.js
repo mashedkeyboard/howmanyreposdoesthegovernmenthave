@@ -1,4 +1,4 @@
-var orglist = ['alphagov', 'gds-operations', 'gds-attic'];
+var orglist = ['alphagov', 'gds-operations'];
 var repocounts = [];
 var urlbase = 'https://api.github.com/orgs/';
 var repoCounter = document.getElementById("count");
